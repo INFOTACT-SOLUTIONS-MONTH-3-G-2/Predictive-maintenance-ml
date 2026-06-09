@@ -6,13 +6,13 @@ This project focuses on predictive maintenance using machine learning techniques
 
 The objective is to identify potential machine failures before they occur by analysing operational parameters and sensor measurements.
 
-## Dataset
+## Dataset.
 
 Dataset: AI4I 2020 Predictive Maintenance Dataset
 
 Key Features:
 - Air Temperature
-- Process Temperature
+- Process Temperature      
 - Rotational Speed
 - Torque
 - Tool Wear
